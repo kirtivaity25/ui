@@ -1,0 +1,50 @@
+  .outerdiv {
+    display: table;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .innerdiv {
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  
+  .btn {
+      width: 100%;
+      border-radius: 18px;
+  }
+
+  .remeberme {
+    text-align: start;
+    color: rgb(8, 8, 8);
+
+  }
+  .pwd{
+    color: blue;
+  }
+  .card{
+    margin-left: 100px;
+    margin-right: 120px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right, rgba(245, 240, 240, 0.979), rgb(53,152,253));
+    
+  }
+.loginform{
+  padding: 35px;
+  margin: 35px;
+
+}
+body{
+  background-color: rgb(208, 229, 247);
+}
+.card-img-top{
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+.form-control{
+  border-radius: 17px;
+}
